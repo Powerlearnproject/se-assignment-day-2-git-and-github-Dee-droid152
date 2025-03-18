@@ -2,7 +2,17 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18748212&assignment_repo_type=AssignmentRepo)
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
+Version control is a system that records changes to files over time, allowing developers to track modifications, revert to previous versions, and collaborate efficiently. There are two main types of version control systems:
 
+Local Version Control – Tracks changes on a single machine using simple file copies.
+Centralized Version Control (CVCS) – Uses a central server to store all files and version history, requiring a constant connection. Examples: SVN, Perforce.
+Distributed Version Control (DVCS) – Every user has a complete copy of the repository, enabling offline work and better redundancy. It is popular because:
+
+Collaboration – Multiple developers can work on a project simultaneously, contributing via branches and pull requests.
+Backup & Accessibility – Repositories are stored in the cloud, ensuring data safety and easy access.
+Issue Tracking & Project Management – Built-in tools help manage bugs, tasks, and feature requests.
+Integration & CI/CD – Supports automation with tools like GitHub Actions for continuous integration and deployment.
+Open Source & Community – Offers public repositories for open-source collaboration and knowledge sharing.
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
