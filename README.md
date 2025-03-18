@@ -12,7 +12,11 @@ Collaboration – Multiple developers can work on a project simultaneously, cont
 Backup & Accessibility – Repositories are stored in the cloud, ensuring data safety and easy access.
 Issue Tracking & Project Management – Built-in tools help manage bugs, tasks, and feature requests.
 Integration & CI/CD – Supports automation with tools like GitHub Actions for continuous integration and deployment.
-Open Source & Community – Offers public repositories for open-source collaboration and knowledge sharing.
+Open Source & Community – Offers public repositories for open-source collaboration and knowledge sharing.History Tracking – Maintains a detailed log of changes, making it easier to track who made what modifications and why.
+Error Recovery – Provides the ability to revert to a previous version if a bug or issue is introduced.
+Branching & Merging – Developers can work on features independently in branches without affecting the main project.
+Conflict Resolution – Helps manage and resolve code conflicts when multiple people work on the same file.
+Code Review & Quality Control – Pull requests and code reviews help maintain code quality before merging changes.
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
