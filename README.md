@@ -205,6 +205,27 @@ Disadvantages
 ❌ Limited Exposure: Unlike public repositories, private ones do not attract external contributors, feedback, or community engagement.
 ❌ Requires GitHub Pro (for Teams/Organizations): While private repositories are free for individuals, advanced collaboration features (e.g., more granular access control) require a paid plan.
 ❌ Less External Review: Lack of public visibility means fewer people can provide input, potentially limiting improvements.
+
+Comparison Table
+Feature	Public Repository	Private Repository
+Visibility	Open to everyone	Only accessible to invited users
+Collaboration	Anyone can fork and suggest changes	Limited to authorized users
+Security	Higher risk of data exposure	Secure, with controlled access
+Community Engagement	Open to contributions, feedback, and bug reports	Restricted to internal teams
+Cost	Free for open-source projects	Free for individuals, but advanced features require a paid plan
+Use Case	Open-source projects, portfolios, educational purposes	Proprietary software, internal projects, sensitive work
+Which One to Choose?
+Use a Public Repository if:
+
+You are working on an open-source project.
+You want to showcase your work or contribute to the open-source community.
+You need external feedback and collaboration.
+Use a Private Repository if:
+
+Your project contains proprietary, sensitive, or confidential information.
+You are working in a closed team or a company setting.
+You are still developing a project and don't want it publicly visible yet.
+For hybrid collaboration, you can start with a private repository and later make it public when the project is stable and ready for wider contributions
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
 
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
