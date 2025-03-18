@@ -17,7 +17,15 @@ Error Recovery – Provides the ability to revert to a previous version if a bug
 Branching & Merging – Developers can work on features independently in branches without affecting the main project.
 Conflict Resolution – Helps manage and resolve code conflicts when multiple people work on the same file.
 Code Review & Quality Control – Pull requests and code reviews help maintain code quality before merging changes.
-## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
+## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?Setting Up a New Repository on GitHub
+Creating a new repository on GitHub is an essential step in managing and collaborating on software projects. Below are the key steps and important decisions you need to make during the setup process.
+
+Step 1: Sign In to GitHub
+Ensure you have a GitHub account. If not, sign up at GitHub and log in.
+
+Step 2: Create a New Repository
+Go to GitHub Dashboard: Click on your profile icon (top-right) and select "Your repositories" or go directly to GitHub Repositories.
+Click "New": This takes you to the repository creation page
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 
